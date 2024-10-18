@@ -3,4 +3,5 @@ int main(){
 	printf("hello world"\n);
 	return 0;
 }
-version 1.0
+version 0.0.1
+version 0.0.2
